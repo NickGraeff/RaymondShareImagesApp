@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "161476663928",
+    "firebase_url": "https://raymondshareimagesapp.firebaseio.com",
+    "project_id": "raymondshareimagesapp",
+    "storage_bucket": "raymondshareimagesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161476663928:android:6f9f3d260adb92b5",
+        "android_client_info": {
+          "package_name": "com.nickgraeff.raymondshareimagesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161476663928-i1r27psslpvp7fe06cr7p1m39snmpe76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJmoG8ZguiWbwnpNrLRp67nKM85V0rMmI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
