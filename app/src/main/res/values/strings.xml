@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">RaymondShareImagesApp</string>
     <string name="share_image_button_text">Share Image</string>
+    <string name="get_image_button_text">Get Image</string>
+    <string name="search_patient_text">Enter Patient Name</string>
+    <string name="self_patient_text">Patient Name</string>
 </resources>
